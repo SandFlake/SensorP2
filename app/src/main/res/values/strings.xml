@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherChannel</string>
+    <string name="title"> Sensor Values </string>
+    <string name="title2"> API Values </string>
+    <string name="pressure"> Pressure: </string>
+    <string name="humidity"> Humidity: </string>
+    <string name="temperature"> Temperature: </string>
+    <string name="diffTitle"> API AND SENSOR COMPARISON </string>
+    <string name="Sensor"> Sensor: </string>
+    <string name="Api"> API: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
